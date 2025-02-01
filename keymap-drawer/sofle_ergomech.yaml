@@ -23,7 +23,7 @@ layers:
   - ^
   - '&'
   - '*'
-  - '&UNDERSCORE'
+  - _
   - (
   - )
   - {t: ▽, type: trans}
