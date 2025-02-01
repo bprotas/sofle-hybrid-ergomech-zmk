@@ -51,7 +51,7 @@ layers:
   - MUTE
   - LCTRL
   - LGUI
-  - {t: LGUI, h: RET}
+  - {t: RET, h: LGUI}
   - lower
   - raise
   - Sft+Ctl+LALT
